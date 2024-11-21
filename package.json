@@ -1,0 +1,11 @@
+{
+  "name": "rsp-repositry",
+  "version": "1.0.0",
+  "description": "Para montar localmente o repositorio em sftp ...em ./debian",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@ropsoft",
+  "license": "ISC"
+}
